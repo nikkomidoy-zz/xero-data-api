@@ -1,6 +1,7 @@
 import json
 
 from django.conf import settings
+from django.core.cache import caches
 from django.http import HttpResponseRedirect
 from rest_framework import status
 from rest_framework.response import Response
@@ -41,7 +42,7 @@ class XeroProcessCallBack(APIView):
         """
         Process callback URI after logging in
         """
-        credentials = get_oauth2_credentials_obj(request.user)
+        credentials = get_oauth2_credentials_obj(request.user, from_callback=True)
         auth_secret = request.get_raw_uri().replace("http", "https")
         credentials.verify(auth_secret)
         credentials.set_default_tenant()

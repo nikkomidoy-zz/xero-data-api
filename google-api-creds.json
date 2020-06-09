@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "socameras-test",
+  "private_key_id": "8d85ea214fa28b4cc522fa4f08a63c8f12d72c27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDvaSYinax8Xomy\ngbUBnzZUGVsebGjOpTT/TcfjHjRn79pfad1vOBOnoQsLZZdUiR3bndILDvBUtu07\nXcHQ9GxbZMM1lKVugZ1WdVl+GkJA6ro4PjRj7hNlXOpHCMH5G/kSLEDxw56LzyKb\n8LmWNyZFgAN8gNB7dS9pqadhT6MINqJ2dToYq0PqPjd9eleVx5+pf8QK8GmXTtWL\nv3n7wRA9WLZDV8U3mtg+d9kid3y67Y3rFIF5BGpCv5bWsjcc+7gdtj0Z3k7QtFn3\nY4IGwqrTJWtg93iu/7S99G+HIjKowftTYKi6sPJ+RLUy+6NEZhih0Z0etuF0/Dgn\nQJXUR4z9AgMBAAECggEAIHc2ne6aV6I9U4jt2hq0VBq9JcbHPrCeG3n5f4XWzvpy\nd0pkpiKpXavD0ueTqjnO4/uGoovD0QUebhTEhfjDYfBr3W37Mh1fD/ypZmWasvFx\nz9M1qRB9rlr3hSr9nPGraMi6BN8Fdsmf1JxEGof/h2C4+E8Clp9ZTt+cDGDvh5sX\n73wtTrWWmaEkf6jhxjMq051GSISjmjd3jBzBY4ATvXXMODEriv75d3Re5iwFelp7\ncR/nFTI7kHPIsyvWmnrA332GMDdo0lmu4mcwBB6ITfGOFUTfd3TzabkxM82KKxLh\np8hMCKhNzeWM+3eQaxsxjBwi2KwojKkM941RXXULKQKBgQD3t74TEPOo3SBnHNRf\nKx2dZr9qUAdhb6Z/8GlXo+O3uMSkd+loA1TFMa+nvgjgFBATL5w5NHszsm/GjJ8/\n1izUB8PcIztpV6FkWcoRx95Iw6XbjIOx37Amgm5aB8iPMh1rspg7xUJqJ4ticyju\njnBzX7svhSu7llaumD0um9Ss9QKBgQD3ak4xH1rfWXybyrwJgp/lvEGnPnWMQp4J\nPdrA93nRBhmzCjVQyqE3KqhlZimlzu1ixxGHHGEm37fNuhqidvBS4rKp2SxA3zXZ\nrd9O3apkmJnpJVTl0QFlaQ4C3E4cKzjNDPhGywGXjKT5zEmH9so1vKJwBmJf9CHs\nFZGwfkha6QKBgHSYkKeqv/VId5rxD+jng1314bzphD/RbJ4li3/LzUBJgI0lP8BM\naRcUBui+YrEN4G8XZsHqON8haskaoU5Lwffe28p+7tTrgTSZqqnp2G+JX0TSg54y\nelf15nkL1tPHs99gRZVEiLksecfSCn8Wnkk/0vxQA0CdR5mQYKPShy0NAoGANLaO\ngELI7qs3NE4mb/RHsv/AESzqiH6tAxUNpW1Uo+cj1JSJNXRmksVg6XGxz+TdiN0W\n6+1s+YZSt989y32ByHcKT8u4dP3ZkE5ONJRfuF0W9aiBhRFZtcyDMrLTZYcD7BQm\nVZbs+Of7Qkl3JSO8g2R0S1/g18bA73bM+oh9S/kCgYAS+biGSv+NSK6v9SCmvIgD\nNBeoiekRroLRv8svWaoq2KQc7NRm+V042rXfwz5P96VyurQgnmtvxq9Vw4hXAAtp\nv0VaKbIvxjyv9MSgB1JvMZ+Arwusk6tdSnl8L/It+SqaGqd1PAA5gOL6PQUBBywU\nGo6NKdy9CYfU3+4fTvOIGg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "socmaeras-test@socameras-test.iam.gserviceaccount.com",
+  "client_id": "107309513194526735294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/socmaeras-test%40socameras-test.iam.gserviceaccount.com"
+}

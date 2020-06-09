@@ -1,0 +1,14 @@
+site_name: Xero Data API
+site_description: This is an API to handle Oauth transactions with Xero API
+repo_url: https://github.com/nikkomidoy/xero-data-api
+site_dir: site
+copyright: Copyright &copy; 2020, <a href="https://github.com/nikkomidoy">nikkomidoy</a>.
+dev_addr: 0.0.0.0:8001
+theme: readthedocs
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
+    - Xero API: 'api/xero_api.md'

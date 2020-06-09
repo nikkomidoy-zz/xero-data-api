@@ -25,9 +25,12 @@ class XeroUserLogin(APIView):
             XeroScopes.PROFILE,
             XeroScopes.EMAIL,
         ]
+        import pdb;pdb.set_trace()
+        xero_client_id = request.GET.get('client_id', settings.XERO_CLIENT_ID)
+        xero_client_secret = request.GET.get('client_secret', settings.XERO_CLIENT_SECRET)
         credentials = OAuth2Credentials(
-            settings.XERO_CLIENT_ID,
-            settings.XERO_CLIENT_SECRET,
+            xero_client_id,
+            xero_client_secret,
             callback_uri=settings.XERO_CALLBACK_URI,
             scope=scopes,
         )

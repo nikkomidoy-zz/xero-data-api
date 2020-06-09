@@ -5,9 +5,17 @@ API documentation in all about Xero transactions
 
 **Request**:
 
-`GET` `/api/v1/xero/login/`
+`GET` `/api/v1/xero/login/?client_id=<client-id>&client_secret=<client-secret>`
 
 Parameters:
+Parameters:
+
+Name         | Type   | Description
+-------------|--------|---
+client_id    | string | Client id from Xero developer app
+client_secret| string | Client secret from Xero developer app
+
+
 
 *Note:*
 
